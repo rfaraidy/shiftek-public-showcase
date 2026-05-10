@@ -180,28 +180,28 @@ Supporting:
 ## 📸 Screenshots
 
 ### Nurse Dashboard
-![Nurse Dashboard](https://via.placeholder.com/800x600?text=Nurse+Dashboard)
+![Nurse Dashboard](https://github.com/rfaraidy/shiftek-public-showcase/blob/main/screenshots/Nurse%20Dashboard.png)
 - Dynamic greeting by time of day
 - Shift card with live countdown
 - KPI tiles: Patients, Tasks due, Overdue, Meds due
 - "Needs attention" section
 
 ### Patient Assessment
-![Assessment Page](https://via.placeholder.com/800x600?text=Assessment+Page)
+![Assessment Page](https://github.com/rfaraidy/shiftek-public-showcase/blob/main/screenshots/Assessment%20Page.png)
 - Body diagram with clickable zones
 - 9 assessment systems (bubble grid)
 - Timeline view with filters
 - AI assistant chat
 
 ### Handover Creation
-![Handover Wizard](https://via.placeholder.com/800x600?text=Handover+Wizard)
+![Handover Wizard](https://github.com/rfaraidy/shiftek-public-showcase/blob/main/screenshots/Handover%20Wizard.png)
 - 4-step wizard
 - AI-generated SBAR
 - Editable sections
 - Pending items checklist
 
 ### Task Board
-![Task Board](https://via.placeholder.com/800x600?text=Task+Board)
+![Task Board](https://github.com/rfaraidy/shiftek-public-showcase/blob/main/screenshots/Task%20Board.png)
 - AI-sorted task list
 - 3 sections: Overdue, Due Now, Upcoming
 - Swipe to complete
@@ -209,41 +209,6 @@ Supporting:
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js 18+
-- npm or yarn
-- Supabase account (for local dev)
-
-### Local Development
-
-1. **Clone the showcase repo** (public code samples only)
-   ```bash
-   git clone https://github.com/rfaraidy/shiftek-public-showcase.git
-   cd shiftek-public-showcase
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Set up environment**
-   ```bash
-   cp .env.example .env.local
-   # Add your Supabase credentials
-   ```
-
-4. **Run dev server**
-   ```bash
-   npm run dev
-   ```
-
-5. **Build for production**
-   ```bash
-   npm run build
-   ```
 
 ### Full Production Code
 The complete production repository with all source files is private while the platform is actively maintained. For recruiters and hiring managers:
